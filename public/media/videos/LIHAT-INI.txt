@@ -1,0 +1,1 @@
+Taruh video MP4 di sini. Dipakai: video4.mp4 (bagian atas/hero). Usahakan di bawah 3 MB. Nama file bisa diubah di src/data/videos.ts

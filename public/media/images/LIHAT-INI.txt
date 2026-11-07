@@ -1,0 +1,1 @@
+Taruh gambar di sini. Dipakai: logo.png (sudah ada), pict1.jpg (bagian pengenalan), pict2.jpg (halaman e-book), pict3.jpg (cadangan). Nama file bisa diubah di src/data/media.ts
